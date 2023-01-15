@@ -17,7 +17,7 @@ Créez ⚠️ **1 SEULE ORGANISATION PAR ÉQUIPE** ⚠️ sur Github.
 
 1. En haut à droite, cliquez sur `+` puis `New organization`
 2. À gauche, cliquez sur `Create a free organization`
-3. Choisissez un nom d'équipe
+3. Choisissez un nom d'équipe (**DOIT contenir votre numéro d'équipe!!!**)
 4. Donnez le email du responsable des plateformes de votre équipe
 5. Indiquez l'appartenance à `Business or institution` et donnez le même nom que précédemment
 6. Ajoutez tous les membres de votre équipe
