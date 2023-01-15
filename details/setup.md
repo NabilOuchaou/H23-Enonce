@@ -28,7 +28,7 @@ Créez ⚠️ **1 SEULE ORGANISATION PAR ÉQUIPE** ⚠️ sur Github.
 
 Copiez le template du projet vers votre nouvelle organisation.
 
-1. [Copiez le template](https://github.com/glo2003/H23-projet/generate)
+1. [Copiez le template](https://github.com/glo2003/jersey-api-template/generate)
 2. Choisissez le `Repository name`
 3. ⚠️ **LE `Owner` DOIT ÊTRE VOTRE NOUVELLE ORGANISATION** ⚠️
 4. ⚠️ **DOIT ÊTRE PRIVÉ/PRIVATE!!!** ⚠️
