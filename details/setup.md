@@ -21,7 +21,7 @@ Créez ⚠️ **1 SEULE ORGANISATION PAR ÉQUIPE** ⚠️ sur Github.
 4. Donnez le email du responsable des plateformes de votre équipe
 5. Indiquez l'appartenance à `Business or institution` et donnez le même nom que précédemment
 6. Ajoutez tous les membres de votre équipe
-7. ⚠️ **AJOUTEZ LES AUXILIAIRES ET CORRECTEURS** en tant **QU'ADMINISTRATEURS** ⚠️
+7. ⚠️ **AJOUTEZ LES AUXILIAIRES ET CORRECTEURS** en tant que **`Owner`** ⚠️
     - `vigenere23`
 
 ### 2. Copie du projet
